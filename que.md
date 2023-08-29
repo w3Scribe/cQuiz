@@ -12,3 +12,4 @@
    12. Program to find the given number is even or odd.
    13. Program to use swith statement. Display the monday to sunday
    14. Program to display arithmetic operator using switch case.
+   15. newB
